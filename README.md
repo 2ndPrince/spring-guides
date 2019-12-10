@@ -1,6 +1,6 @@
 # Following Official Spring Guide Projects
 
-Official spring guides (https://spring.io/guides) have many useful and informative projects.
+Official spring guides (https://spring.io/guides) have many useful and various topics of projects.
 
 They also stick with coding best practices. I'll follow them and keep my code here to remind myself later.
 
