@@ -1,4 +1,4 @@
-# Following official spring guide projects
+# Following Official Spring Guide Projects
 
 Official spring website has many useful tutorial projects of various topics (https://spring.io/guides).
 
