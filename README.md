@@ -1,14 +1,12 @@
 # Following Official Spring Guide Projects
 
-Official spring website has many useful tutorial projects of various topics (https://spring.io/guides).
+Official spring guides (https://spring.io/guides) have many useful and informative projects.
 
-They stick with coding best practices and therefore are great learning materials.
-
-I'll keep my source code for guide projects here and come back later to remind myself.
+They also stick with coding best practices. I'll follow them and keep my code here to remind myself later.
 
 Here's my approach for this project to effectively learn the materials
 ```
-Proactively follow guide steps and add one more feature to it.
+Proactively follow each guide step and then add one more feature to it.
 ```
 
 ### Project Lists
